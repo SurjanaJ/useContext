@@ -5,7 +5,7 @@ import SaladSummary from "./Components/SaladSummary";
 export default function App() {
   return (
     <div>
-      <Navigation />
+      fdsdfs <Navigation />
       <SaladMaker />
     </div>
   );
